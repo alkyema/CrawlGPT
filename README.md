@@ -114,5 +114,3 @@ CrawlGPT/
 
 
 > 📚 “Your personalized AI librarian — trained on the web you choose.”
-
-```
