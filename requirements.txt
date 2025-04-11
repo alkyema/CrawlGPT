@@ -1,0 +1,28 @@
+# Web & API Framework
+fastapi
+uvicorn
+
+# Google Gemini API
+google-generativeai
+
+# Env variables
+python-dotenv
+
+# HTML Scraping
+beautifulsoup4
+requests
+lxml
+tldextract
+
+# Embedding & RAG
+faiss-cpu
+tiktoken
+sentence-transformers
+
+# Data Handling
+pandas
+numpy
+
+# Optional: For async and logging
+httpx
+loguru
